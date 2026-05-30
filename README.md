@@ -1,9 +1,11 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4a3aff&height=120&section=header&text=MD%20NABIL&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%26%20AI%20Engineer&descAlignY=60&descColor=c0b8ff" width="100%"/>
+<!-- Banner — uploaded to your repo as banner.svg -->
+<img src="./banner.svg" width="100%" alt="MD Nabil — Data Scientist & AI Engineer"/>
 
-<!-- Profile Views Badge -->
+<br/>
+
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=mdnabil484&label=Profile%20Views&color=4a3aff&style=flat-square" alt="Profile Views"/>
 
 </div>
@@ -104,11 +106,12 @@ I'm a fresher **Data Scientist & AI Engineer** passionate about building intelli
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nabil-21b966208/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdnabil484?tab=repositories)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dev_kiran)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4a3aff&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4a3aff&height=80&section=footer" width="100%"/>
 </div>
